@@ -1,6 +1,6 @@
 ---
 title: "yucky-ewwii"
-description: "A yuck compatibility plugin for ewwii"
+description: "A yuck compatibility plugin for ewwii."
 author: "Ewwii-sh"
 link: "https://ewwii-sh.github.io/yucky-ewwii"
 tags: ["Apache-2.0", "language"]

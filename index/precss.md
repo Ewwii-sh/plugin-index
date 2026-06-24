@@ -1,6 +1,6 @@
 ---
 title: "precss"
-description: "Predefined css classes for an easier time styling"
+description: "Predefined css classes for an easier time styling."
 author: "Byson94"
 link: "https://byson94.is-a.dev/precss.ewwii"
 tags: ["CC0", "style"]
